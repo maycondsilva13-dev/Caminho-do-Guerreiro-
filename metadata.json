@@ -1,0 +1,6 @@
+{
+  "name": "Caminho do Guerreiro: Do Tatame ao Octógono",
+  "description": "Simulador e RPG de carreira de artes marciais: comece na infância, evolua graduações em 7 artes, dispute campeonatos reais, gerencie vida e alcance o MMA profissional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
